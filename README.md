@@ -1,4 +1,4 @@
-# Poster-Modeling-Elevator-System-With-Coloured-Petri-Nets
+# A Poster about Modeling Elevator System with Coloured Petri Nets
 
 This repository shares a poster presented at The First Exhibition of Patents and Scientific Achievement (2015) orgnized by 
 The Saudi Cultural Bureau in Ottawa. The poster is for a paper published at The 2015 International Conference on 
